@@ -12,8 +12,8 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 
 | Archivo | Para |
 |---|---|
-| `TVBridge_2.0.0_AndroidTV.apk` | **La TV:** Android TV, Google TV y otros televisores o TV box con Android |
-| `TVBridge_2.0.0_Telefono.apk` | **El teléfono:** cualquier teléfono Android |
+| `TVBridge_2.0.1_AndroidTV.apk` | **La TV:** Android TV, Google TV y otros televisores o TV box con Android |
+| `TVBridge_2.0.1_Telefono.apk` | **El teléfono:** cualquier teléfono Android |
 
 **Requisitos:** Android 8.0 o superior en ambos dispositivos y conexión a internet.
 
@@ -22,7 +22,7 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 - **Teléfono:** abre la APK. Android pedirá permitir «Instalar apps desconocidas» para tu navegador o gestor de archivos.
 - **TV:** pasa la APK a la TV (por USB, con un gestor de archivos o con la app que uses para instalar) y ábrela. Después, al instalar aplicaciones desde TV BRIDGE, la TV te pedirá una vez permitir que TV BRIDGE instale apps.
 
-> **¿Tenías una versión de prueba anterior?** La 2.0.0 es la primera versión pública y está firmada con la clave oficial de ASTRIM. Si Android dice que la app «no se instaló» o que «entra en conflicto con un paquete existente», desinstala primero la versión anterior y vuelve a instalar.
+> **¿Tenías una versión de prueba anterior?** La 2.0.0 fue la primera versión pública y está firmada con la clave oficial de ASTRIM. Si Android dice que la app «no se instaló» o que «entra en conflicto con un paquete existente», desinstala primero la versión anterior y vuelve a instalar.
 
 ### Cómo se usa
 
@@ -35,8 +35,8 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 
 | Archivo | SHA-256 |
 |---|---|
-| `TVBridge_2.0.0_AndroidTV.apk` | `3edd6a15b90ccab1dd9faa9928786f5d11a58671900cadd34dd536f053b53fed` |
-| `TVBridge_2.0.0_Telefono.apk` | `fa73121f17799780f91c2f5f48e7a6d078c0439e98b458917d8813ad162daa61` |
+| `TVBridge_2.0.1_AndroidTV.apk` | `dfa12d32da14b4b114d85dc61e6be7ae13f97c8f2a32fc60dd356fda2e711812` |
+| `TVBridge_2.0.1_Telefono.apk` | `5150ec2d8e83bbb52c15a99ffb2f8bb0d4221ff1f46b745b3af13a3307451ca5` |
 
 Certificado de firma (SHA-256): `e765f636b865f56c907695c7d19d3baf727abd0d32dcc1d16adde1919f646fb9` (CN=ASTRIM)
 

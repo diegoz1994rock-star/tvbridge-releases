@@ -12,8 +12,8 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 
 | Archivo | Para |
 |---|---|
-| `TVBridge_2.0.1_AndroidTV.apk` | **La TV:** Android TV, Google TV y otros televisores o TV box con Android |
-| `TVBridge_2.0.1_Telefono.apk` | **El teléfono:** cualquier teléfono Android |
+| `TVBridge_2.0.2_AndroidTV.apk` | **La TV:** Android TV, Google TV y otros televisores o TV box con Android |
+| `TVBridge_2.0.2_Telefono.apk` | **El teléfono:** cualquier teléfono Android |
 
 **Requisitos:** Android 8.0 o superior en ambos dispositivos y conexión a internet.
 
@@ -35,8 +35,8 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 
 | Archivo | SHA-256 |
 |---|---|
-| `TVBridge_2.0.1_AndroidTV.apk` | `dfa12d32da14b4b114d85dc61e6be7ae13f97c8f2a32fc60dd356fda2e711812` |
-| `TVBridge_2.0.1_Telefono.apk` | `5150ec2d8e83bbb52c15a99ffb2f8bb0d4221ff1f46b745b3af13a3307451ca5` |
+| `TVBridge_2.0.2_AndroidTV.apk` | `dde8e7f072313795136b7dc26f98494813d6bf14d147b887e8ae60c76640f013` |
+| `TVBridge_2.0.2_Telefono.apk` | `aecda48291069bbef3fab65108152c41e85d4225997ba6e20350460d9b64419e` |
 
 Certificado de firma (SHA-256): `e765f636b865f56c907695c7d19d3baf727abd0d32dcc1d16adde1919f646fb9` (CN=ASTRIM)
 

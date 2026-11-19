@@ -14,11 +14,11 @@ ASTRIM · <https://astrim-web.web.app/productos/tv-bridge>
 
 ## 3. Aceptación
 
-Al instalar o usar TV BRIDGE aceptas estos términos, la [licencia de uso](LICENCIA.txt) y la [política de privacidad](PRIVACY_POLICY.md). Si no estás de acuerdo, no instales ni uses la aplicación.
+Al instalar o usar TV BRIDGE aceptas estos términos, la [licencia](LICENCIA.txt) y la [política de privacidad](PRIVACY_POLICY.md). Si no estás de acuerdo, no instales ni uses la aplicación.
 
-## 4. Alcance de la licencia
+## 4. Licencia
 
-TV BRIDGE se licencia, no se vende. El alcance y las restricciones de uso están en [LICENCIA.txt](LICENCIA.txt).
+TV BRIDGE es software libre y de código abierto bajo la **Licencia Apache 2.0** ([LICENCIA.txt](LICENCIA.txt)). Puedes usarlo, estudiarlo, modificarlo y redistribuirlo en los términos de esa licencia. El código fuente está en <https://github.com/diegoz1994rock-star/tv-bridge>.
 
 ## 5. Uso permitido
 
@@ -33,9 +33,9 @@ No puedes usar TV BRIDGE para:
 - Vincularte con una TV que no te pertenece sin permiso de su dueño.
 - Saturar, atacar o usar indebidamente los servicios de vinculación de los que depende la aplicación.
 
-## 7. Propiedad intelectual
+## 7. Propiedad intelectual y marcas
 
-TV BRIDGE, su código, su diseño, su nombre y su identidad visual son de ASTRIM y están protegidos por derechos de autor. Los componentes de terceros se rigen por sus propias licencias ([THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)).
+El código de TV BRIDGE es © 2026 ASTRIM y se publica bajo la Licencia Apache 2.0. Los nombres **TV BRIDGE** y **ASTRIM**, sus logotipos y su identidad visual son marcas de ASTRIM: la licencia no permite usarlos para presentar una versión modificada como oficial. Las versiones oficiales son las firmadas por ASTRIM y publicadas en este repositorio. Los componentes de terceros se rigen por sus propias licencias ([THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)).
 
 ## 8. Tus archivos y tu responsabilidad
 
@@ -58,7 +58,7 @@ ASTRIM puede publicar nuevas versiones con mejoras o correcciones. Las versiones
 
 ## 12. Suspensión o finalización
 
-Puedes dejar de usar TV BRIDGE en cualquier momento desinstalándola. ASTRIM puede dar por terminada la licencia si incumples gravemente estos términos o la licencia de uso.
+Puedes dejar de usar TV BRIDGE en cualquier momento desinstalándola. Los derechos que te concede la Licencia Apache 2.0 se rigen por ese texto.
 
 ## 13. Responsabilidad
 

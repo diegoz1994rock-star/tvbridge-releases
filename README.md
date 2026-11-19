@@ -1,6 +1,6 @@
 # TV BRIDGE — descargas
 
-**Tu teléfono, conectado a tu TV.** App gratuita para **Android** y **Android TV**, de **ASTRIM**.
+**Tu teléfono, conectado a tu TV.** App **gratuita y de código abierto** para **Android** y **Android TV**, de **ASTRIM**.
 
 Vincula tu teléfono con tu TV escribiendo el código de 6 dígitos que aparece en pantalla. Desde el teléfono puedes enviar un APK, un enlace o un **código de descarga** (como los de Downloader), y la TV lo descarga y te lleva directo a instalarlo, sin abrir otras apps ni el navegador. Funciona con enlaces directos y con páginas de descarga como MediaFire, Google Drive, Mega o Dropbox. Antes de instalar, la TV te muestra los permisos que pide cada aplicación.
 
@@ -12,8 +12,8 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 
 | Archivo | Para |
 |---|---|
-| `TVBridge_2.0.2_AndroidTV.apk` | **La TV:** Android TV, Google TV y otros televisores o TV box con Android |
-| `TVBridge_2.0.2_Telefono.apk` | **El teléfono:** cualquier teléfono Android |
+| `TVBridge_2.0.3_AndroidTV.apk` | **La TV:** Android TV, Google TV y otros televisores o TV box con Android |
+| `TVBridge_2.0.3_Telefono.apk` | **El teléfono:** cualquier teléfono Android |
 
 **Requisitos:** Android 8.0 o superior en ambos dispositivos y conexión a internet.
 
@@ -35,8 +35,8 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 
 | Archivo | SHA-256 |
 |---|---|
-| `TVBridge_2.0.2_AndroidTV.apk` | `dde8e7f072313795136b7dc26f98494813d6bf14d147b887e8ae60c76640f013` |
-| `TVBridge_2.0.2_Telefono.apk` | `aecda48291069bbef3fab65108152c41e85d4225997ba6e20350460d9b64419e` |
+| `TVBridge_2.0.3_AndroidTV.apk` | `88466bc22decf2fd4d3d55f9849b825dad6554ddeb3545578cef14bf514258cc` |
+| `TVBridge_2.0.3_Telefono.apk` | `f8616f94562ceb62092f63ec68386224c836a195346e5eb69e542bbc27c5f8fe` |
 
 Certificado de firma (SHA-256): `e765f636b865f56c907695c7d19d3baf727abd0d32dcc1d16adde1919f646fb9` (CN=ASTRIM)
 
@@ -46,6 +46,10 @@ TV BRIDGE no pide cuenta ni datos personales. La vinculación usa un código tem
 
 Instala solo aplicaciones de fuentes en las que confíes y que tengas derecho a usar: ASTRIM no aloja, revisa ni distribuye los archivos que envías o descargas.
 
-Este repositorio solo contiene los archivos de instalación; el código fuente no es público. Uso sujeto a [LICENCIA.txt](LICENCIA.txt), [TERMS_AND_CONDITIONS.md](TERMS_AND_CONDITIONS.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+## Código abierto
+
+TV BRIDGE es software libre bajo la **Licencia Apache 2.0**. El código fuente está en <https://github.com/diegoz1994rock-star/tv-bridge>: puedes estudiarlo, compilarlo, modificarlo y compartirlo. Los nombres TV BRIDGE y ASTRIM y sus logotipos son marcas de ASTRIM.
+
+Este repositorio contiene los archivos de instalación oficiales, firmados por ASTRIM. Ver [LICENCIA.txt](LICENCIA.txt), [TERMS_AND_CONDITIONS.md](TERMS_AND_CONDITIONS.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 © 2026 ASTRIM. Todos los derechos reservados. · <https://astrim-web.web.app/>

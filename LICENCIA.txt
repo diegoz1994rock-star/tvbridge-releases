@@ -1,0 +1,55 @@
+LICENCIA DE USO DE SOFTWARE PROPIETARIO — TV BRIDGE
+
+© 2026 ASTRIM. TODOS LOS DERECHOS RESERVADOS.
+Sitio web oficial: https://astrim-web.web.app/
+Versión 1.0 · En vigor desde el 19 de noviembre de 2026.
+
+TV BRIDGE es software propietario de ASTRIM. No es software libre ni de código abierto. Esta licencia regula el uso de las aplicaciones TV BRIDGE para teléfono y para TV (en adelante, "el Software") por parte de la persona que las instala o utiliza (en adelante, "el Usuario").
+
+1. CONCESIÓN DE LA LICENCIA
+
+ASTRIM concede al Usuario una licencia limitada, no exclusiva, intransferible y revocable en los supuestos previstos en la cláusula 7, para instalar y utilizar el Software en dispositivos que el Usuario posea o controle, para fines personales o profesionales, de acuerdo con las condiciones del canal de distribución autorizado por el que lo haya obtenido.
+
+2. TITULARIDAD
+
+El Software se licencia, no se vende. ASTRIM conserva todos los derechos sobre sus componentes originales: código fuente, arquitectura, diseño de interfaz, identidad visual, recursos gráficos originales y documentación. La instalación no transfiere al Usuario ninguna titularidad sobre ellos.
+
+3. RESTRICCIONES
+
+Salvo autorización previa y expresa de ASTRIM, y sin perjuicio de los usos que la legislación aplicable permita de forma imperativa, el Usuario no podrá:
+
+a) Redistribuir, publicar, alquilar o prestar copias del Software fuera de los canales de distribución autorizados.
+b) Sublicenciar, ceder o transferir esta licencia a terceros.
+c) Comercializar copias o versiones no autorizadas del Software.
+d) Modificar o crear obras derivadas de los componentes propietarios del Software.
+e) Presentar el Software, o versiones derivadas de él, como desarrollado por terceros, ni suplantar la identidad de ASTRIM.
+f) Eliminar, ocultar o alterar los avisos de autoría, derechos de autor o propiedad intelectual.
+g) Extraer y reutilizar comercialmente los componentes originales del Software, incluidos sus recursos gráficos.
+
+Nada de lo anterior limita los derechos que la ley reconozca al Usuario con carácter irrenunciable, incluidas, cuando correspondan, las excepciones legales de interoperabilidad, copia de seguridad o estudio del funcionamiento del programa.
+
+Esta licencia es un instrumento jurídico: no afirma que existan medios técnicos que impidan copiar el paquete de instalación del Software.
+
+4. CONTENIDOS DEL USUARIO
+
+El Software sirve para enviar archivos y enlaces del teléfono a la TV y para descargar e instalar aplicaciones en la TV. Los archivos, enlaces y aplicaciones que el Usuario transfiere o descarga pertenecen a sus titulares; esta licencia no otorga a ASTRIM ningún derecho sobre ellos, y ASTRIM no los aloja, revisa ni distribuye. El Usuario es el único responsable de tener derecho a usar el contenido que transfiere, descarga o instala, y de hacerlo desde fuentes de confianza. ASTRIM no respalda ni se hace responsable de aplicaciones o contenidos de terceros.
+
+5. COMPONENTES DE TERCEROS
+
+El Software incluye componentes de terceros sujetos a sus propias licencias (ver THIRD-PARTY-NOTICES y la sección "Componentes de terceros" de la aplicación). Esta licencia no restringe los derechos que dichas licencias concedan sobre esos componentes. Los servicios externos que el Software utiliza para vincular dispositivos (Firebase, de Google) y los servicios de descarga que el Usuario elija se rigen además por las condiciones de sus proveedores.
+
+6. GARANTÍA Y RESPONSABILIDAD
+
+El Software se ofrece con las funciones descritas en su documentación. La transferencia entre dispositivos depende de la red del Usuario, y la descarga desde enlaces o códigos depende de que el servicio de origen esté disponible y entregue el archivo; algunos servicios pueden cambiar su funcionamiento sin aviso. ASTRIM responderá en los términos que establezca la legislación aplicable; esta licencia no excluye ni limita las responsabilidades que la ley no permita excluir o limitar, ni los derechos de los consumidores.
+
+7. TERMINACIÓN
+
+Esta licencia se mantiene mientras el Usuario utilice el Software conforme a ella. ASTRIM podrá darla por terminada si el Usuario incumple gravemente las restricciones de la cláusula 3. El Usuario puede ponerle fin en cualquier momento desinstalando el Software.
+
+8. LEGISLACIÓN APLICABLE
+
+[PENDIENTE DE COMPLETAR POR ASTRIM: país cuya legislación rige esta licencia y tribunales competentes]. En todo caso se respetarán las normas imperativas de protección de los consumidores del lugar de residencia habitual del Usuario.
+
+9. CONTACTO
+
+ASTRIM · https://astrim-web.web.app/productos/tv-bridge

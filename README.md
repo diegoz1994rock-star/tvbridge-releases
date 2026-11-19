@@ -35,8 +35,8 @@ Ve a [**Releases**](../../releases/latest) y descarga **las dos** apps:
 
 | Archivo | SHA-256 |
 |---|---|
-| `TVBridge_2.0.0_AndroidTV.apk` | `869ac6a886912027e0d0dfbb97c59bb252a77c38596a54a46ee685efa7f56afd` |
-| `TVBridge_2.0.0_Telefono.apk` | `0df6f2faad555419dd6a88b57eb6941f24a4411fb6322b0f6a29757127846e70` |
+| `TVBridge_2.0.0_AndroidTV.apk` | `3edd6a15b90ccab1dd9faa9928786f5d11a58671900cadd34dd536f053b53fed` |
+| `TVBridge_2.0.0_Telefono.apk` | `fa73121f17799780f91c2f5f48e7a6d078c0439e98b458917d8813ad162daa61` |
 
 Certificado de firma (SHA-256): `e765f636b865f56c907695c7d19d3baf727abd0d32dcc1d16adde1919f646fb9` (CN=ASTRIM)
 

@@ -66,7 +66,7 @@ TV BRIDGE se ofrece con las funciones descritas en su documentación. ASTRIM res
 
 ## 14. Legislación aplicable
 
-[PENDIENTE DE COMPLETAR POR ASTRIM: país cuya legislación rige estos términos y tribunales competentes]. En todo caso se respetarán las normas imperativas de protección de los consumidores del lugar de residencia habitual del usuario.
+Estos términos se rigen por las leyes de la República de Colombia. Las controversias se someterán a los jueces competentes de la República de Colombia. En todo caso se respetarán las normas imperativas de protección de los consumidores, incluido el Estatuto del Consumidor (Ley 1480 de 2011), y las del lugar de residencia habitual del usuario.
 
 ## 15. Contacto corporativo
 

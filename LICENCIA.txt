@@ -48,7 +48,7 @@ Esta licencia se mantiene mientras el Usuario utilice el Software conforme a ell
 
 8. LEGISLACIÓN APLICABLE
 
-[PENDIENTE DE COMPLETAR POR ASTRIM: país cuya legislación rige esta licencia y tribunales competentes]. En todo caso se respetarán las normas imperativas de protección de los consumidores del lugar de residencia habitual del Usuario.
+Esta licencia se rige por las leyes de la República de Colombia, incluida la Ley 23 de 1982 sobre derechos de autor y la Decisión Andina 351 de 1993. Las controversias se someterán a los jueces competentes de la República de Colombia. En todo caso se respetarán las normas imperativas de protección de los consumidores, incluido el Estatuto del Consumidor (Ley 1480 de 2011), y las del lugar de residencia habitual del Usuario.
 
 9. CONTACTO
 
